@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/chat/vendor/topthink/think-image" />
+      <path value="$PROJECT_DIR$/chat/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/chat/vendor/topthink/think-captcha" />
+      <path value="$PROJECT_DIR$/chat/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/chat/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/chat/vendor/topthink/think-testing" />
+      <path value="$PROJECT_DIR$/chat/vendor/topthink/think-worker" />
+      <path value="$PROJECT_DIR$/chat/vendor/topthink/think-installer" />
+      <path value="$PROJECT_DIR$/chat/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/chat/vendor/topthink/think-angular" />
+      <path value="$PROJECT_DIR$/chat/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/chat/vendor/topthink/think-mongo" />
+      <path value="$PROJECT_DIR$/chat/vendor/topthink/think-helper" />
+      <path value="$PROJECT_DIR$/chat/vendor/topthink/think-queue" />
+      <path value="$PROJECT_DIR$/chat/vendor/topthink/think-migration" />
+      <path value="$PROJECT_DIR$/chat/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/chat/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/chat/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/chat/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/chat/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/chat/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/chat/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/chat/vendor/GatewayWorker-for-win/vendor" />
+      <path value="$PROJECT_DIR$/chat/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/chat/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/chat/vendor/workerman/workerman" />
+      <path value="$PROJECT_DIR$/chat/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/chat/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/chat/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/chat/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/chat/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/chat/vendor/GatewayWorker-for-win/Applications" />
+      <path value="$PROJECT_DIR$/chat/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/chat/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/chat/vendor/composer" />
+      <path value="$PROJECT_DIR$/chat/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/chat/vendor/sebastian/comparator" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="5.4.0" />
+</project>
